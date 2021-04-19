@@ -1,0 +1,3 @@
+#002E5B was changed to #800000 everywhere
+#F2184F was changed to #DCEAE96 then to #FFD700 then to an old color
+
