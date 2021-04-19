@@ -40,7 +40,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 7; white-space: nowrap; font-weight:700;"><span class="text-theme-colored">20% </span>off
+                  style="z-index: 7; white-space: nowrap; font-weight:700;"><span class="text-theme-colored">Electric</span>
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -90,7 +90,9 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
+                  style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">
+                  We provide both electric or diesel powered power saws.
+                
                 </div>
 
                 <!-- LAYER NR. 4 -->

@@ -1,7 +1,7 @@
 <?php include 'inc/header.php'?>
 
 <!-- Section: inner-header -->
-<section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/bg6.jpg">
+<section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="images/bg/banner.jpg">
   <div class="container pt-60 pb-60">
     <!-- Section Content -->
     <div class="section-content">

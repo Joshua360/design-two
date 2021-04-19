@@ -471,7 +471,8 @@
         <div class="section-content">
          <div class="row">
             <div class="col-md-5"> 
-             <img src="stuff/fansmi.jpg" class="img-fullwidth" alt="">
+              <br><br><br>
+             <img src="stuff/machinery/shopped.jpg" class="img-fullwidth" alt="">
             </div>
             <div class="col-md-7">
               <h2 class="mt-50">Why Choose <span class="text-theme-colored2">Ikonic Agricultural Machinery</span></h2>
