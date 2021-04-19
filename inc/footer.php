@@ -1,4 +1,8 @@
 <!-- Footer -->
+
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-5beadbfa-a9bd-4078-b4b4-6d73959d69f1"></div>
 <footer id="footer" class="footer" data-bg-img="images/footer-bg.png" data-bg-color="#152029">
     <div class="container pt-70 pb-40">
       <div class="row border-bottom">
