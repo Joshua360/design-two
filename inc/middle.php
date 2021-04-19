@@ -442,7 +442,7 @@
           <div class="box-hover-effect play-button">
             <div class="effect-wrapper">
               <div class="thumb">
-                <img class="img-fullwidth" src="stuff/welcome.jpg" alt="project">
+                <img class="img-fullwidth" src="https://res.cloudinary.com/dfxmjolki/image/upload/v1618814102/welcome_aopzc3.jpg" alt="project">
               </div>
               <div class="overlay-shade"></div>
               
@@ -472,7 +472,7 @@
          <div class="row">
             <div class="col-md-5"> 
               <br><br><br>
-             <img src="stuff/machinery/shopped.jpg" class="img-fullwidth" alt="">
+             <img src="https://res.cloudinary.com/dfxmjolki/image/upload/v1618813975/shopped_cbx6cl.jpg" class="img-fullwidth" alt="">
             </div>
             <div class="col-md-7">
               <h2 class="mt-50">Why Choose <span class="text-theme-colored2">Ikonic Agricultural Machinery</span></h2>
